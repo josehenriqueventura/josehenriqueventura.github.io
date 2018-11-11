@@ -1,0 +1,83 @@
+= Curriculum
+Jose Henrique Ventura
+2018-10-18
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: my cv, jose henrique ventura
+:idprefix:
+
+=== Summary
+
+Self-motivated person with seven years of hands-on experience in development of enterprise applications with specialization
+in Java/Java EE. During these years, I have been following technologies which surround the Java ecosystem to create the
+applications with a high level of quality, security and availability.
+
+=== Experiences
+
+*Company:* WorldNet TPS +
+*Role:* Software Engineer +
+*Date:* Since July of 2015 +
+*Location:* Ireland, Dublin. +
+
+Working as a Java Team Leader & Software Developer with such technologies: +
+
+* GlassFish, WildFly, Java EE, Java 8, MySQL Server, REST, WebService, Apache Ant, Redmine, Intellij.
+* Integrating the Payment Gateway with Acquires and Processors. +
+* Performing code reviews of co-worker’s deliverable to ensure best practices, quality and security,
+including suggestions of refactor making the code clear and legible. +
+
+****
+****
+
+*Company:* CasBrazil - Pharmaceutical Consultant  (Remote Mostly) +
+*Role:* Software Engineer +
+*Date:* 01/2014 - 10/2017 +
+*Location:* Campinas, São Paulo - Brasil. +
+
+* Worked mostly in converting tools designed firstly with Excel Spreadsheets into Webapp's (small services, loads of WARs inside of an EAR). +
+* Design of APIs which handle batch files/data of Costumers. +
+* Design of services which handled a reasonable quantity of large files daily of Costumers where reports are created to explain to the Customer the situation of the content. +
+* Configured instances initially in Amazon AWS and after a long time moving them to Google Could Computer. Instances to run Java Applications, Nginx and PostgresSql. +
+
+****
+****
+
+=== Education
+
+*Title:* Bachelor's Degree in Computer Science +
+*Institution:* Universidade Paulista +
+*Location:* Campinas, São Paulo - Brazil +
+*Year:* 2009 - 2013
+
+=== Certification
+
+*Title:* OCP (_Oracle Certification Program_) - Java 6 +
+*Date:* January 2011 +
+
+=== Professional Memberships/Awards
+
+*Title:* Ulster Bank Hackathon +
+*Project:* GoDutch Project +
+*Location:* Ireland, Dublin. +
+*Year:* 2016 +
+*Publication*: https://irishtechnews.ie/ideas-around-going-dutch-childrens-finance-and-alternative-banking-cards-take-prizes-at-ulster-bank-hackathon/[Irish Tech News] +
+*Description:*
+
+=== Skills
+
+*Servers:* GlassFish, WildFly (Swarm/Thorntail for Microservices), Tomcat, Nginx +
+*Load Balance:* HAProxy +
+*Service Discover:* Consul +
+*Languages:* Java 6+, JavaScript +
+*Frameworks:* JSF, JSP, Angular 4 +
+*Source Control:* SVN, Git +
+*Database:* MySQL, PostgresSQL, Oracle. +
+*Operational Systems:* Mac OS X, Linux and Windows +
+*Tools:* Apache Ant, Apache Maven +
+*Continuous Integration:* Jenkins, Travis +
+
+====  IDE, Tools and Continuous Integration
+Eclipse IDE, Git, Subversion,
+Apache Ant, Apache Maven
+Jenkins,SonarLint,
+JIRA, Redmine, Trello
