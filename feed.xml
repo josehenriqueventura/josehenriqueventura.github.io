@@ -6,8 +6,8 @@
     <atom:link href="http://josehenriqueventura.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 13 Jan 2019 18:09:15 +0000</pubDate>
-    <lastBuildDate>Sun, 13 Jan 2019 18:09:15 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jan 2019 18:12:31 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Jan 2019 18:12:31 +0000</lastBuildDate>
 
     <item>
       <title>Curriculum</title>
@@ -223,7 +223,7 @@ they need to slit the bill by what each person have consumed.
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect3&quot;&gt;
-&lt;h4 id=&quot;i_have_skills_with_the_following_technologies&quot;&gt;I have skills with the following technologies&lt;/h4&gt;
+&lt;h4 id=&quot;skills_with_the_following_technologies&quot;&gt;Skills with the following technologies&lt;/h4&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;GlassFish, WildFly (Swarm/Thorntail for Microservices), Tomcat, Nginx&lt;br&gt;
 HAProxy, Consul&lt;br&gt;

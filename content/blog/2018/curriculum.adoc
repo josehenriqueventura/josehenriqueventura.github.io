@@ -128,7 +128,7 @@ they need to slit the bill by what each person have consumed.
 * Postgres database
 * https://www.openbankproject.com/[Open Bank API] for payment integration.
 
-==== I have skills with the following technologies
+==== Skills with the following technologies
 
 GlassFish, WildFly (Swarm/Thorntail for Microservices), Tomcat, Nginx +
 HAProxy, Consul +
