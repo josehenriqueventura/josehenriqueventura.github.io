@@ -6,8 +6,8 @@
     <atom:link href="http://josehenriqueventura.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sun, 13 Jan 2019 18:12:31 +0000</pubDate>
-    <lastBuildDate>Sun, 13 Jan 2019 18:12:31 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Jan 2019 20:37:17 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Jan 2019 20:37:17 +0000</lastBuildDate>
 
     <item>
       <title>Curriculum</title>
@@ -26,8 +26,10 @@ applications with a high level of quality, security and availability.&lt;/p&gt;
 &lt;div class=&quot;sect2&quot;&gt;
 &lt;h3 id=&quot;experience_timeline&quot;&gt;Experience timeline&lt;/h3&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Contributions to Open Source projects&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;Project:&lt;/strong&gt; &lt;a href=&quot;http://tomee.apache.org&quot;&gt;Apache Tomee&lt;/a&gt; - &lt;strong&gt;MicroProfile&lt;/strong&gt; examples&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contributions to Open Source projects&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; &lt;a href=&quot;http://tomee.apache.org&quot;&gt;Apache Tomee&lt;/a&gt; - &lt;strong&gt;MicroProfile&lt;/strong&gt; examples&lt;br&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;ulist&quot;&gt;
 &lt;ul&gt;
