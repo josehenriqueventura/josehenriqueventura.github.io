@@ -14,6 +14,14 @@ applications with a high level of quality, security and availability.
 
 === Experiences
 
+*Contributions to Open Source projects* +
+*Project:* http://tomee.apache.org[Apache Tomee] - *MicroProfile* examples +
+
+* MicroProfile - http://tomee.apache.org/tomee-8.0/examples/mp-custom-healthcheck.html[FaultTolerance @Retry] - https://github.com/apache/tomee/pull/260[#260]
+* MicroProfile - http://tomee.apache.org/tomee-8.0/examples/mp-faulttolerance-retry.html[Custom Health Check] - https://github.com/apache/tomee/pull/302[#302]
+
+---
+
 *Company:* WorldNet TPS +
 *Role:* Software Engineer +
 *Date:* Since July of 2015 +
@@ -26,8 +34,7 @@ Working as a Java Team Leader & Software Developer with such technologies: +
 * Performing code reviews of co-worker’s deliverable to ensure best practices, quality and security,
 including suggestions of refactor making the code clear and legible. +
 
-****
-****
+---
 
 *Company:* CasBrazil - Pharmaceutical Consultant  (Remote Mostly) +
 *Role:* Software Engineer +
@@ -39,8 +46,7 @@ including suggestions of refactor making the code clear and legible. +
 * Design of services which handled a reasonable quantity of large files daily of Costumers where reports are created to explain to the Customer the situation of the content. +
 * Configured instances initially in Amazon AWS and after a long time moving them to Google Could Computer. Instances to run Java Applications, Nginx and PostgresSql. +
 
-****
-****
+---
 
 === Education
 
