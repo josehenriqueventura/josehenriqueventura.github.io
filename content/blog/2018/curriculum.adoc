@@ -6,6 +6,13 @@ Jose Henrique Ventura
 :jbake-tags: my cv, Jose Henrique Ventura
 :idprefix:
 
+==== Personal Details
+
+Name: Jose Henrique Ventura +
+Email: jose.ventura@protonmail.com +
+Twitter: https://twitter.com/jventura_io +
+GitHub: https://github.com/josehenriqueventura +
+
 === Summary
 
 Self-motivated person with seven years of hands-on experience in development of enterprise applications with specialization
@@ -16,10 +23,11 @@ applications with a high level of quality, security and availability.
 
 *Contributions to Open Source projects* +
 
-*Project:* http://tomee.apache.org[Apache Tomee] - *MicroProfile* examples +
+*Project:* http://tomee.apache.org[Apache TomEE] - *MicroProfile* examples +
 
 * MicroProfile - http://tomee.apache.org/tomee-8.0/examples/mp-custom-healthcheck.html[FaultTolerance @Retry] - https://github.com/apache/tomee/pull/260[#260]
 * MicroProfile - http://tomee.apache.org/tomee-8.0/examples/mp-faulttolerance-retry.html[Custom Health Check] - https://github.com/apache/tomee/pull/302[#302]
+* MicroProfile - http://tomee.apache.org/tomee-8.0/examples/mp-faulttolerance-timeout.html[FaultTolerance @Timeout] - https://github.com/apache/tomee/pull/382[#382]
 
 ---
 
